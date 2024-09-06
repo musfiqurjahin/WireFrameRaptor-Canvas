@@ -1,0 +1,9 @@
+/* styles.css */
+
+/* Apply a background color to the entire body */
+body {
+    background-color: red; /* Replace with the desired color code */
+    color: #fff; /* Optional: Set the text color to white for better contrast */
+}
+
+/* Additional styling if needed */
